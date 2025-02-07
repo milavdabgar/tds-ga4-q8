@@ -1,0 +1,8 @@
+{
+  "name": "pdf-to-markdown",
+  "version": "1.0.0",
+  "description": "Convert PDF to Markdown",
+  "dependencies": {
+    "prettier": "3.4.2"
+  }
+}
